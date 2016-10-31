@@ -1,3 +1,8 @@
+Zach Dischner's fork of git@github.com:alrojo/tensorflow-tutorial.git. Local playground and testbed with a few updates. 
+
+I'm using python3 in my own environment since I couldn't get docker to work on my Mac. So there's that. Otherwise there shouldn't be many differences.
+
+
 # TensorFlow Tutorial - used by Nvidia
 Learn TensorFlow from scratch by examples and visualizations with interactive jupyter notebooks. Learn to compete in the [Kaggle leaf detection challenge](https://www.kaggle.com/c/leaf-classification)!
 
