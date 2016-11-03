@@ -20,6 +20,8 @@ Getting access to docker images on dockerhub (`hub.docker.com`) is easy! When ch
 
 To run the docker type
 
+**docker-machine ssh default** ZD ??
+
 >docker run -it alrojo/tf-sklearn-cpu
 
 this starts up a docker container from the `alrojo/tf-sklearn-cpu` image.
